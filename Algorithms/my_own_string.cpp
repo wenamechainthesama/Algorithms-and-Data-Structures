@@ -163,13 +163,3 @@ int main() {
     String str = "Hello, World!";
     cout << str;
 }
-
-/*
-Todo:
-Overload * operator
-What is move constructor?
-
-Todo after:
-Code my array class
-*/
-
