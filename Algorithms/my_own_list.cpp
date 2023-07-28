@@ -264,15 +264,3 @@ bool List<T1>::operator!=(List<T1> &otherListInstance) {
 int main() {
 
 }
-
-
-/*
-Code With C++:
-1) Programming Language
-2) Browser
-3) Operating System
-4) Compiler
-5) Game engine
-6) Libriry
-7) Server
-*/
